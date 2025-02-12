@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "iut.r4a11.shifumi"
+    namespace = "com.example.tp22"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "iut.r4a11.shifumi"
+        applicationId = "com.example.tp22"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
