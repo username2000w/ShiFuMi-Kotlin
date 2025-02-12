@@ -7,7 +7,7 @@ ShiTestMi est une la version informatique du ShiFuMi , ici on retrouver le Bug ,
  
 ## V1
 
-[TODO] Navigation
-[TODO] Gyroscope
-[TODO] Detecter 3 déplacement
+- [TODO] Navigation
+- [TODO] Gyroscope
+- [TODO] Detecter 3 déplacement
 
